@@ -6,6 +6,6 @@ const logger = morgan("combined");
 
 // const mongoUrl = `mongodb+srv://wildbadger:jkhinpiqosq@clusterbankapp.pn7rge3.mongodb.net/?retryWrites=true&w=majority`;
 
-const mongoUrl = `mongodb+srv://wildbadger:jkhinpiqosq@clusterbankapp.pn7rge3.mongodb.net/?retryWrites=true&w=majority;
+const mongoUrl = "mongodb+srv://Academy:EWYL-academy@academy.ilmon77.mongodb.net/?retryWrites=true&w=majority";
 
 export { logger, mongoUrl };
